@@ -11,23 +11,24 @@ This project demonstrates a simple bigram-based language model built from scratc
 ## Setup
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/SanthoshVijayabaskar/bigram-language-model.git
-  ```
+```bash
+  git clone https://github.com/SanthoshVijayabaskar/bigram-language-model.git
+```
 
 2. Navigate to the project directory:
-  ```bash
+```bash
   cd bigram-language-model
 ```
 
 3. Install the required dependencies:
-  ```bash
+```bash
   pip install numpy
+```
 
 ## Running the Program
 
 1. Run the main program:
-  ```bash
+```bash
   python3 main.py
 ```
 
